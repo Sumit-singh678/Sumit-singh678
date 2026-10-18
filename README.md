@@ -1,12 +1,138 @@
-- 👋 Hi, I’m @Sumit-singh678
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+  SUMIT SINGH | STARK PROTOCOL
+  Customize this README as your skills and projects grow.
+-->
 
-<!---
-Sumit-singh678/Sumit-singh678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:075985,100:00D4FF&height=210&section=header&text=SUMIT%20SINGH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=STARK%20PROTOCOL%20%7C%20AI%20%7C%20ROBOTICS%20%7C%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Stark-inspired profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Initializing+Stark+Protocol...;AI%2FML+%7C+Autonomous+Robotics;Building+NEXUS-A1+%7C+Developing+JARVIS;Think.+Build.+Test.+Improve." alt="Animated developer introduction"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sumit--singh678-111827?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/Sumit-singh678)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20ROBOTICS-075985?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-0A7F5A?style=for-the-badge)
+
+</div>
+
+---
+
+## `> SYSTEM.BOOT()`
+
+Hello, world! I'm **Sumit Singh**, a B.Tech student exploring Artificial Intelligence, Machine Learning, autonomous robotics, and intelligent software systems.
+
+Inspired by Tony Stark's engineering mindset, I want to build technology that solves real problems—not just projects that look impressive.
+
+```text
+╔══════════════════════════════════════╗
+║          STARK PROTOCOL v1.0         ║
+╠══════════════════════════════════════╣
+║  ID       : SUMIT SINGH              ║
+║  DOMAIN   : AI / ML / ROBOTICS       ║
+║  MODE     : LEARN + BUILD            ║
+║  OBJECTIVE: ENGINEER INTELLIGENCE    ║
+║  DIRECTIVE: TURN IDEAS INTO SYSTEMS  ║
+╚══════════════════════════════════════╝
+```
+
+## `> CURRENT_MISSIONS`
+
+### 01 / NEXUS-A1 — Autonomous Robotics
+
+An in-progress robotics project focused on developing an intelligent mobile robot.
+
+- Microcontroller: ESP32 DevKit V1
+- Planned focus: sensor integration, obstacle awareness, and autonomous movement
+- Future direction: explore on-device intelligence and AI-assisted decision-making
+- Goal: build, test, document, and improve a working prototype
+
+**Status:** In development.
+
+### 02 / JARVIS-AI — Personal AI Assistant
+
+An in-progress software project inspired by intelligent assistant systems.
+
+- Planned capabilities: voice interaction, task routing, and a desktop interface
+- Learning focus: Python, modular software design, and automation
+- Development priority: reliable, permission-based, and safe system actions
+
+**Status:** In development.
+
+> These are development goals, not claims that every planned feature is already implemented.
+
+## `> TECH_STACK -- EXPLORING`
+
+Tools and technologies I am learning or exploring for my projects:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**Areas of exploration**
+
+- AI and Machine Learning
+- Embedded systems and robotics
+- Voice assistants and desktop automation
+- Ethical cybersecurity and defensive security
+- Software engineering and problem-solving
+
+## `> ENGINEERING_PRINCIPLES`
+
+```python
+class StarkProtocol:
+    def __init__(self):
+        self.mindset = "Curiosity"
+        self.method = "Build -> Test -> Improve"
+        self.principles = [
+            "Learn the fundamentals",
+            "Solve real problems",
+            "Document every project",
+            "Build responsibly",
+        ]
+
+    def execute(self):
+        return "Keep learning. Keep engineering."
+```
+
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumit-singh678&show_icons=true&hide_border=true&bg_color=020617&title_color=00D4FF&icon_color=00D4FF&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-singh678&layout=compact&hide_border=true&bg_color=020617&title_color=00D4FF&text_color=CBD5E1" alt="Most-used public repository languages"/>
+
+</div>
+
+*Statistics are generated by an external service and may not include every repository or contribution.*
+
+## `> COLLABORATION_PROTOCOL`
+
+I'm interested in learning with other developers and exploring projects involving:
+
+- AI-powered applications
+- Autonomous robots and embedded systems
+- Useful developer tools
+- Ethical and defensive cybersecurity
+
+If you're working on something interesting, feel free to connect through GitHub.
+
+<div align="center">
+
+### THINK LIKE AN ENGINEER. BUILD LIKE A MAKER.
+
+**`SYSTEM STATUS: LEARNING • BUILDING • EVOLVING`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:075985,100:020617&height=100&section=footer" width="100%" alt="Cyan futuristic footer"/>
+
+</div>
